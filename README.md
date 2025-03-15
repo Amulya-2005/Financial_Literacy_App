@@ -38,7 +38,7 @@ The **Financial Literacy App** is designed to empower women by providing educati
 
 ## Deployment
 The application is deployed and can be accessed at:
-[**Financial Literacy App**][https://financialliteracyapp-t3pqnzrk9natujwmippbz9.streamlit.app/]
+[**Financial Literacy App**](https://financialliteracyapp-t3pqnzrk9natujwmippbz9.streamlit.app/)
 
 ## Usage
 - Open the app in a browser.
